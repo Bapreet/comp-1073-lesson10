@@ -25,6 +25,27 @@
         "clover honey"
       ],
       "image" : "peach-mango.svg"
+    },
+    {
+      "name" : "Raspberry Redness",
+      "calories" :  450,
+      "type" : "ice milk",
+      "ingredients" : [
+        "raspberries",
+        "colorful sprinkles",
+        "raspberry syrup"
+      ],
+      "image" : "ice-cream-xtra1.svg"
+    },
+    {
+      "name" : "Butter Scotch Gold",
+      "calories" : 350,
+      "type" : "sorbet",
+      "ingredients" : [
+        "Butterscotch chunks",
+        "Edible Gold Covers"
+      ],
+      "image" : "ice-cream-xtra2.svg"
     }
   ]
 }
